@@ -1,6 +1,7 @@
-# TP2-Organizacion-de-datos
-Real or Not? NLP with Disaster Tweets Predict which Tweets are about real disasters and which ones are not
-Kaggle competition
+# TP2-Organizacion-de-datos  
+##Kaggle competition  
+###Real or Not? NLP with Disaster Tweets Predict which Tweets are about real disasters and which ones are not  
+
 
 Oh La La... Data!  
 * Hamma AALI CHTOUKI - Padrón 106607 - Alumno regular de intercambio.  
