@@ -1,6 +1,6 @@
 # TP2-Organizacion-de-datos  
-##Kaggle competition  
-###Real or Not? NLP with Disaster Tweets Predict which Tweets are about real disasters and which ones are not  
+Kaggle competition  
+Real or Not? NLP with Disaster Tweets Predict which Tweets are about real disasters and which ones are not  
 
 
 Oh La La... Data!  
